@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Mus2 Free Installer** — Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. Works without internet access, no account required. Full offline installation.
+**💻 Mus2 Free Installer** — Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Mus2
 
-Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. It supports microtonal accidentals and the specialized notation system used in traditional Turkish makam music.
+Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. For composers working in microtonal, just intonation, or Middle Eastern and Turkish makam music traditions, Mus2 provides notation tools that standard music notation software cannot handle.
 
 ---
 
 ## ❌ Problem: Mus2 is hard to access
 
-- **Extremely Niche** — Specifically for Turkish classical music notation; very limited general use
-- **Windows Only** — Not available on macOS or Linux
-- **Paid License** — Requires purchase for a very specialized audience
-- **Small User Community** — Very limited resources beyond the core Turkish music community
+- **Specialized Niche** — Only useful for microtonal and non-standard tuning composition
+- **Community Size** — Very small specialized user community
+- **Platform Limitations** — Limited platform support
+- **Learning Investment** — Microtonal music theory itself requires significant study
 
 ---
 
@@ -121,7 +121,7 @@ Mus2 is a music notation software specializing in Ottoman and Turkish classical 
 
 ---
 
-**Mus2 Free Installer** — Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. Install without internet connection today!
+**Mus2 Free Installer** — Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. Install without internet connection today!
 
 <div align="center">
 
